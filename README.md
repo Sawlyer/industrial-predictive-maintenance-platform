@@ -2,7 +2,7 @@
 
 Maintenance prédictive pour moteurs d'avion : estimer la durée de vie restante, détecter les moteurs à risque et prioriser les interventions.
 
-[![CI](https://github.com/Sawlyer/industrial-predictive-maintenance-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/Sawlyer/industrial-predictive-maintenance-platform/actions/workflows/ci.yml)
+[![CI](https://github.com/Sawlyer/industrial-predictive-maintenance-platform/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Sawlyer/industrial-predictive-maintenance-platform/actions/workflows/ci.yml?query=branch%3Amain)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Jeu de données](https://img.shields.io/badge/donn%C3%A9es-NASA%20C--MAPSS-lightgrey)
 ![Licence](https://img.shields.io/badge/licence-MIT-green)
