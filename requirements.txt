@@ -1,0 +1,8 @@
+# Runtime dependencies, for hosts that install from a requirements file rather
+# than from pyproject.toml. Local development uses `pip install -e ".[dev]"`.
+pandas>=2.1
+numpy>=1.26
+scikit-learn>=1.4
+joblib>=1.3
+plotly>=5.20
+streamlit>=1.33
